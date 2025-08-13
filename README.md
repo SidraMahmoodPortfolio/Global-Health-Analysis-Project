@@ -14,12 +14,12 @@ Data Cleaning & Transformation (SQL)
  .Created views to simplify Power BI integration`
 
 Data Analysis (SQL)
-`Aggregated data to analyze:
+ Aggregated data to analyze:
    .Average life expectancy by country and year
    .Total infant deaths and rolling totals
    .Tuberculosis rate change over years
    .Obesity and unemployment rates across regions
- Used SQL window functions (LAG(), OVER()) for deeper insights`
+ Used SQL window functions (LAG(), OVER()) for deeper insights
 
 Data Visualization & DAX (Power BI)
 `.Created calculated fields and custom measures using DAX
